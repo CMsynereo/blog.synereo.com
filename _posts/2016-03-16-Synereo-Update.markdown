@@ -60,6 +60,7 @@ The GLoSEval Network evaluator for Generalized Language of Streams is one of the
 
 [12:13 ---Node Version Compatibility](https://youtu.be/s3Qaue8rHuM?t=12m13s)<br>
 
+
 ###
 [12:46 --- LivelyGig's Contract Mechanism](https://youtu.be/s3Qaue8rHuM?t=12m46s)
 <blockquote class="imgur-embed-pub" lang="en" data-id="LNEY4A1"><a href="//imgur.com/LNEY4A1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
