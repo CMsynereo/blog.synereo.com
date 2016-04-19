@@ -46,22 +46,23 @@ This will be a rare and powerful opportunity to further the conversations of the
 
 ###
 [05:21 --- Internet Justice is Swift and Merciless](https://youtu.be/s3Qaue8rHuM?t=5m21s)<br>
-
+Internet Mob Justice Isn't Justice At All according to this [Forbes Magazine Article](http://www.forbes.com/sites/erikkain/2015/05/14/internet-mob-justice-isnt-justice-at-all/#26b13015284c)
 
 
 ###
 [05:56 --- Reputation of Devices & Smart Contracts](https://youtu.be/s3Qaue8rHuM?t=5m56s)<br>
-
+Machines of all shapes and sizes, devices big and small, will be imbibed with the power of smart contracts, which brings with it the need for increased security and authenticity.  
 ###
 [08:37 --- Improvements to GLoSEval and Cores](https://youtu.be/s3Qaue8rHuM?t=8m37s)<br>
-
+The GLoSEval Network evaluator for Generalized Language of Streams is one of the main tools within the Synereo Stack. Improvements are being made on a daily basis, as we work to better understand the full-cycle lifecycle of some of the more notable animals in the region. 
+  
 [10:17 --- Dogfooding Features](https://youtu.be/s3Qaue8rHuM?t=10m17s)<br>
 
 [12:13 ---Node Version Compatibility](https://youtu.be/s3Qaue8rHuM?t=12m13s)<br>
 
 ###
 [12:46 --- LivelyGig's Contract Mechanism](https://youtu.be/s3Qaue8rHuM?t=12m46s)
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="LNEY4A1"><a href="//imgur.com/LNEY4A1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ###
 [14:52 --- Synereo should use LivelyGig for HR](https://youtu.be/s3Qaue8rHuM?t=14m52s)
