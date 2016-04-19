@@ -12,7 +12,7 @@ This week, team Synereo prepares for the upcoming COALA Blockchain Workshop in N
 
 **DevOps Team Welcomes improvements to GLoSEval **; Spray dependancy is updated; **work continues to convert older dependancies running on VirtualBox, into AMI and Docker images, and with this we welcome anyone else to join in DevOps merryment!**.
 
-![image](http://imgur.com/4lXUcFY.png)<br>
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_food_aisle.JPG/320px-Dog_food_aisle.JPG)<br>
 
 <h5 style="text-align: center;" markdown="1">*Use the Synereo product for our own communications*</h5>
 <BR>
