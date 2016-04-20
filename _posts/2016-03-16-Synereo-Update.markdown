@@ -8,7 +8,7 @@ date: '2016-04-16 08:00:00 +0200'
 
 ### March 16, 2016 Synereo Community Hangout
 
-This week, team Synereo prepares for the upcoming COALA Blockchain Workshop in NYC. Greg is interested in hosting a satelite workshop for people interested in reputation systems. Reputation interfaces with business and regulations
+This week, team Synereo prepares for the upcoming COALA Blockchain Workshop in NYC. Greg is interested in hosting a satelite workshop for people interested in reputation systems. Reputation interfaces with business and regulations.
 
 **DevOps Team Welcomes improvements to GLoSEval ; Spray dependancy is updated; work continues to convert older dependancies running on VirtualBox, into AMI and Docker images, and with this we welcome anyone else to join in DevOps merryment!**
 
