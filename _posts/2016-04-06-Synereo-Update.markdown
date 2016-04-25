@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Synereo Weekly Update
-date: '2016-04-06 08:00:00 +0200'
+date: '2016-04-20 08:00:00 +0200'
 ---
 
 ### April 06, 2016 Synereo Community Hangout
