@@ -15,14 +15,14 @@ During this community hangout, Greg Meredith, Dor Konforty and some of the commu
 ![image](http://www.landkhc.com/wp-content/uploads/2015/09/image-placeholder-500x500.jpg)<br>
 *Visuals !*
 
-[00:00 --- 3:20](https://youtu.be/SJ5SeU4cnKc?t=0) The conversation opens up by exploring reputation systems. Specifically, 5 aspects of reputation:
-   1. formalization of reputation
-   2. The relationship of reputation to regulation.
-   3. Reputation of things that have agency. This can include the reputation of smart contracts, devices or services.
-   4. reputation and privacy
-   5. Interoperation of reputation.
+[00:00 --- 3:20](https://youtu.be/SJ5SeU4cnKc?t=0) The conversation opens up by exploring reputation systems. Specifically, *5 aspects of reputation:*
+1. formalization of reputation
+2. The relationship of reputation to regulation.
+3. Reputation of things that have agency. This can include the reputation of smart contracts, devices or services.
+4. reputation and privacy
+5. Interoperation of reputation.
 
-###Time Stamps / Highlights
+### Time Stamps / Highlights
 
 [06:40 --- 9:35](https://youtu.be/SJ5SeU4cnKc?t=6m40s) Vlad Zamfir opens up the conversation by drawing a notion to describe the formulation of a knowledge base.<br>
 [10:35 --- 12:35](https://youtu.be/SJ5SeU4cnKc?t=10m35s) Greg and vlad explains the difference between the reputation system of Synereo and Backfeed.<br>
