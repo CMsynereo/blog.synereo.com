@@ -13,15 +13,14 @@ date: '2016-04-20 08:00:00 +0200'
 During this community hangout, Greg Meredith, Dor Konforty and some of the community leaders were in NYC for the COALA conference.
 
 ![image](http://www.landkhc.com/wp-content/uploads/2015/09/image-placeholder-500x500.jpg)<br>
-<h5 style="text-align: center;" markdown="1">*Visuals !*</h5>
-<BR>
+*Visuals !*
 
 [00:00 --- 3:20](https://youtu.be/SJ5SeU4cnKc?t=0) The conversation opens up by exploring reputation systems. Specifically, 5 aspects of reputation:
-1) formalization of reputation
-2) The relationship of reputation to regulation.
-3) Reputation of things that have agency. This can include the reputation of smart contracts, devices or services.
-4) reputation and privacy
-5) Interoperation of reputation.
+   1. formalization of reputation
+   2. The relationship of reputation to regulation.
+   3. Reputation of things that have agency. This can include the reputation of smart contracts, devices or services.
+   4. reputation and privacy
+   5. Interoperation of reputation.
 
 ###Time Stamps / Highlights
 
@@ -35,8 +34,7 @@ During this community hangout, Greg Meredith, Dor Konforty and some of the commu
 [35:00 --- 41:00](https://youtu.be/SJ5SeU4cnKc?t=35m) Dor, Greg and Ed gives update on how the COALA conference went for Synereo.<br>
 
 ![image](http://www.landkhc.com/wp-content/uploads/2015/09/image-placeholder-500x500.jpg)<br>
-<h5 style="text-align: center;" markdown="1">*Visuals !*</h5>
-<BR>
+*Visuals !*
 
 ### That's all for this week!
 
