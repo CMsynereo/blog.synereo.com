@@ -15,7 +15,7 @@ During this community hangout, Greg Meredith, Dor Konforty and some of the commu
 ![image](http://www.landkhc.com/wp-content/uploads/2015/09/image-placeholder-500x500.jpg)<br>
 *Visuals !*
 
-[00:00 --- 3:20](https://youtu.be/SJ5SeU4cnKc?t=0) The conversation opens up by exploring reputation systems. Specifically, *5 aspects of reputation:*
+[00:00 --- 3:20](https://youtu.be/SJ5SeU4cnKc?t=0) The conversation opens up by exploring reputation systems. Specifically, **5 aspects of reputation:**
 
 1. formalization of reputation
 2. The relationship of reputation to regulation.
