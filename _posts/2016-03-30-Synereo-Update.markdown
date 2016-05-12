@@ -8,9 +8,9 @@ date: '2016-04-18 08:00:00 +0200'
 
 ### March 30, 2016 Synereo Community Hangout
 
- <br>![image](https://pixabay.com/photo-561387/)<br>
+<br>![image](https://pixabay.com/photo-561387/)<br>
 
-##Update Summary
+## Update Summary
 In this week’s hangout, a new easier accessible version of the whitepaper was discussed, also a focus was put on the UI and coming images, which should be tested and viewed by the community.
 
 The need for more channels and especially about a tech channel, which should be focused only on technical aspects was talked about. Also some new focus groups were discussed, as example one especially for technical aspects, another one for integration of a broader range of people, which should be one of the main goals for the coming Synereo adoption.
@@ -37,14 +37,14 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 
 ## [Detailed notes]
 
-#[00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
+# [00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
 Dor talks about a new version of the whitepaper, which is more accessible to non-technical people. Chris wants to do the task and also a fresh pitch deck. The new community leader Chris, was also active as a community leader with Factom and is currently working on the Bitland project. Dor mentions in general, that the people who want to help out have the full freedom to do what they think is best for the Synereo community.
 
 
-#[05:42 - a couple of updates]  https://youtu.be/m_BxakTpizs?t=343
+# [05:42 - a couple of updates]  https://youtu.be/m_BxakTpizs?t=343
 There is a new DevOp Team, it is planned that the client side stuff becomes an executable file to see how the API works.  Also, work is being done on having a docker, a virtual box and an amazon image. Mal is working in conversion of virtual box images into docker images.
 
-#[09:42 - UI progress] https://youtu.be/m_BxakTpizs?t=583
+# [09:42 - UI progress] https://youtu.be/m_BxakTpizs?t=583
 Navneet talks about the upcoming images and also about a full flash image, which is coming with all the stuff inside. Greg talks about a graphic interface which allows you to connect different nodes and more. It is important to allow fast growth of the network, and with people who are not so nerdy, in contrast of the majority of the early community.  
 <br>![image](http://blog.synereo.com/img/uploads/gui.jpg)<br>
 
