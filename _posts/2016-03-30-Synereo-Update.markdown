@@ -8,7 +8,7 @@ date: '2016-04-18 08:00:00 +0200'
 
 ### March 30, 2016 Synereo Community Hangout
 
-<br>![image](https://pixabay.com/photo-561387/.png)<br>
+<br>![image](http://i.imgur.com/qojfhEk.jpg)<br>
 
 ## Update Summary
 In this week’s hangout, a new easier accessible version of the whitepaper was discussed, also a focus was put on the UI and coming images, which should be tested and viewed by the community.
@@ -45,12 +45,10 @@ There is a new DevOp Team, it is planned that the client side stuff becomes an e
 
 [09:42 - UI progress](https://youtu.be/m_BxakTpizs?t=583)
 Navneet talks about the upcoming images and also about a full flash image, which is coming with all the stuff inside. Greg talks about a graphic interface which allows you to connect different nodes and more. It is important to allow fast growth of the network, and with people who are not so nerdy, in contrast of the majority of the early community.  
-<br>![image](http://blog.synereo.com/img/uploads/gui.png)<br>
+<br>![image](http://blog.synereo.com/img/uploads/gui.jpg)<br>
 
 [15:00 - New York blockchain workshop](https://youtu.be/m_BxakTpizs?t=900)
  Greg and Dor will be in New York for a blockchain workshop and also some internal workshops. It's planned to run a demo on a presentation-panel and Ed wants to organize some pitches for investors.ew communication channel, which focuses more on the technical and Dev aspects of Synereo will be added soon. He wants to have such a hangout once per week, also with the idea to bring more developers on board.
-
-
 
 [17:12 - coming crowdsale](https://youtu.be/m_BxakTpizs?t=1032)
 Chris asks if people participating in the coming crowdsale would be also owners of the synereo company, which was answered by Greg. The coming crowdsale will include equity and the whole concept will be a community governance structure.
@@ -60,33 +58,33 @@ Navneet wants to post a primary version of the UI, so people can play around wit
 
 [28:52 - project high-school kids](https://youtu.be/m_BxakTpizs?t=1732)
 Jonny is doing a lot of work with high-school kids and college students, and he has a group of students who are quite interested in Synereo. He can organize focus groups to get input from, and find out what they want in a future social platform, and also what they don't like in existing social platforms.
-<br>![image](https://pixabay.com/photo-953154/.png)<br>
+<br>![image](http://i.imgur.com/AqQZrD3.jpg)<br>
 
 [30:41 - the need of more channels](https://youtu.be/m_BxakTpizs?t=1841)
 Greg is talks about the need for more channels to organize and manage the tasks more efficiently. As an example, a tech channel, or focus group channels (both for the UI side, and the client side) with the goal to get more people involved.
 
 [34:18 -  the advantages of synereo over competitors](https://youtu.be/m_BxakTpizs?t=2058)
 The advantages of synereo about possible competitors was brought up.  The most urgent advantages are the reputation model, attention model, and the underlying mathematical model, which shows not only up in the area of social media, but also in the field of big data, complex event processing and many more.  The new social model, where the people can earn money through bounties.
-<br>![image](https://pixabay.com/photo-989124/.png)<br>
+<br>![image](http://i.imgur.com/qkOy7v1.jpg)<br>
 
 [44:11 - question about the security of the synereo network](https://youtu.be/m_BxakTpizs?t=2651)
 Mal asks a question about the security of the synereo network which is not on the blockchain.
 Greg explains that encryption is only the last layer of security and as example for the Synereo network, security through obscurity can be very powerful, it can be very hard to guess the channels where the conversation occurred. This layer of security can give you a much higher security level than encryption and it's a bit like finding a needle in a haystack.
-<br>![image](https://pixabay.com/photo-1187198/.png)<br>
+<br>![image](http://i.imgur.com/1TmeQls.jpg)<br>
 
 [47:47 - project taskmanager](https://youtu.be/m_BxakTpizs?t=2867)
 Alan presents a new application pitch, an idea of an app that can be used to organize your task lists. He wants to create a tasklist, which is simple but able to twist, and can demonstrate some showcases, which the synereo platform is able to do. The depth of the app comes from the ability to connect with other people on the platform, so that you can receive hints and different kinds of input. The app should help you work through the day and improve your work life balance, whereas it should be also made fun to use.
 
 [53:41 - developer fund for whitelisted applications](https://youtu.be/m_BxakTpizs?t=3221)
 Greg said that Dor had a nice idea about a developer fund, a whitelist of applications that are able to show the value of the Synereo platform is needed, and also helps to engage the community and potential developers more.  Also, when using all the different channels (google, taiga, slack, hangouts), we should think about how we want it to happen in Synereo.
-<br>![image](https://pixabay.com/photo-784321/.png)<br>
+<br>![image](http://i.imgur.com/N8NjqWY.jpg)<br>
 
- [55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)
+[55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)
 Greg talks about the possibilities of the modern communication layer, the role of blockchain technology and the missing aspects of a modern social technology, which focus mainly on collaboration. He mentions that gamification can unlock a lot of capacities, which are not often touched on, and he explains that all 3 game theories in mathematics have unlocked and solved a lot of fundamental mathematical problems.  He concludes that gamification is a crucial step in developing social technology and that Synereo reflects only one layer, which can support the process of coordination and collaboration.
 
 [01:03:23 - New York blockchain workshop II](https://youtu.be/m_BxakTpizs?t=3800)
 Dor asks if there are already applications that can be presented on the platform, and if anyone has connections to small angel-like investors, who can be meet during the New York blockchain workshop.
 
-##That’s all!
+## That’s all!
 
 **Get involved in the Synereo community! Get AMP bounties for open tasks. See our [Slack channel](http://slack.synereo.com/) for details.**
