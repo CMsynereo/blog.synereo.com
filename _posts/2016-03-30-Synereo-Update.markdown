@@ -18,20 +18,20 @@ The need for more channels and especially about a tech channel, which should be 
 Alan presented a new application pitch, a Task manager which want to use and involve a lot of Synereo features. The upcoming crowdsale was discussed, and possible connections to small investors & angel investors.  Our participation in the  blockchain workshops in New York and the need of whitelisted applications, which are able to show the potential of the Synereo platform, were also covered.
 
 ## [Contents in Brief]
-[00:00 - start](https://www.youtube.com/watch?v=m_BxakTpizs)
-[05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)
-[09:42 - UI progress](https://youtu.be/m_BxakTpizs?t=583)
-[15:00 - New York blockchain workshop](https://youtu.be/m_BxakTpizs?t=900)
-[17:12 - coming crowdsale](https://youtu.be/m_BxakTpizs?t=1032)
-[23:21 - UI progress II](https://youtu.be/m_BxakTpizs?t=1401)
-[28:52 - project high-school kids](https://youtu.be/m_BxakTpizs?t=1732)
-[30:41 - the need of more channels](https://youtu.be/m_BxakTpizs?t=1841)
-[34:18 - the advantages of synereo over competitors](https://youtu.be/m_BxakTpizs?t=2058)
-[44:11 - question about the security of the synereo network](https://youtu.be/m_BxakTpizs?t=2651)
-[47:47 - project taskmanager](https://youtu.be/m_BxakTpizs?t=2867)
-[53:41 - developer fund for whitelisted applications](https://youtu.be/m_BxakTpizs?t=3221)
-[55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)
-[01:03:23 - New York blockchain workshop II](https://youtu.be/m_BxakTpizs?t=3800)
+[00:00 - start](https://www.youtube.com/watch?v=m_BxakTpizs)<BR>
+[05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)<BR>
+[09:42 - UI progress](https://youtu.be/m_BxakTpizs?t=583)<BR>
+[15:00 - New York blockchain workshop](https://youtu.be/m_BxakTpizs?t=900)<BR>
+[17:12 - coming crowdsale](https://youtu.be/m_BxakTpizs?t=1032)<BR>
+[23:21 - UI progress II](https://youtu.be/m_BxakTpizs?t=1401)<BR>
+[28:52 - project high-school kids](https://youtu.be/m_BxakTpizs?t=1732)<BR>
+[30:41 - the need of more channels](https://youtu.be/m_BxakTpizs?t=1841)<BR>
+[34:18 - the advantages of synereo over competitors](https://youtu.be/m_BxakTpizs?t=2058)<BR>
+[44:11 - question about the security of the synereo network](https://youtu.be/m_BxakTpizs?t=2651)<BR>
+[47:47 - project taskmanager](https://youtu.be/m_BxakTpizs?t=2867)<BR>
+[53:41 - developer fund for whitelisted applications](https://youtu.be/m_BxakTpizs?t=3221)<BR>
+[55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)<BR>
+[01:03:23 - New York blockchain workshop II](https://youtu.be/m_BxakTpizs?t=3800)<BR>
 
 ## Watch the full Hangout
 
@@ -41,10 +41,10 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 Dor talks about a new version of the whitepaper, which is more accessible to non-technical people. Chris wants to do the task and also a fresh pitch deck. The new community leader Chris, was also active as a community leader with Factom and is currently working on the Bitland project. Dor mentions in general, that the people who want to help out have the full freedom to do what they think is best for the Synereo community.
 
 
-# [05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)
+[05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)
 There is a new DevOp Team, it is planned that the client side stuff becomes an executable file to see how the API works.  Also, work is being done on having a docker, a virtual box and an amazon image. Mal is working in conversion of virtual box images into docker images.
 
-# [09:42 - UI progress](https://youtu.be/m_BxakTpizs?t=583)
+[09:42 - UI progress](https://youtu.be/m_BxakTpizs?t=583)
 Navneet talks about the upcoming images and also about a full flash image, which is coming with all the stuff inside. Greg talks about a graphic interface which allows you to connect different nodes and more. It is important to allow fast growth of the network, and with people who are not so nerdy, in contrast of the majority of the early community.  
 <br>![image](http://blog.synereo.com/img/uploads/gui.jpg)<br>
 
