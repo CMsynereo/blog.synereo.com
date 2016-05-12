@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Synereo Weekly Update
-date: '2016-03-23 08:00:00 +0200'
+date: '2016-04-17 08:00:00 +0200'
 ---
 
 <br>![image](http://imgur.com/Zn4TQPG)<br> 
