@@ -19,8 +19,8 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 
 
 ## [Contents in Brief]
-[00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
-* [05:42 - a couple of updates]  https://youtu.be/m_BxakTpizs?t=343
+[00:00 - start](https://www.youtube.com/watch?v=m_BxakTpizs)
+* [05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)
 * [09:42 - UI progress] https://youtu.be/m_BxakTpizs?t=583
 * [15:00 - New York blockchain workshop] https://youtu.be/m_BxakTpizs?t=900
 * [17:12 - coming crowdsale] https://youtu.be/m_BxakTpizs?t=1032
