@@ -33,7 +33,7 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 [55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)<BR>
 [01:03:23 - New York blockchain workshop II](https://youtu.be/m_BxakTpizs?t=3800)<BR>
 
-## Watch the full Hangout
+## [Watch the full Hangout](https://www.youtube.com/watch?v=m_BxakTpizs)<BR>
 
 ## [Detailed notes]
 
