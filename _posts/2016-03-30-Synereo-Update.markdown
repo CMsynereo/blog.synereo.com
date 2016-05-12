@@ -19,7 +19,7 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 
 
 ## [Contents in Brief]
-* [00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
+[00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
 * [05:42 - a couple of updates]  https://youtu.be/m_BxakTpizs?t=343
 * [09:42 - UI progress] https://youtu.be/m_BxakTpizs?t=583
 * [15:00 - New York blockchain workshop] https://youtu.be/m_BxakTpizs?t=900
@@ -37,7 +37,7 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 
 ## [Detailed notes]
 
-# [00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
+[00:00 - start] https://www.youtube.com/watch?v=m_BxakTpizs
 Dor talks about a new version of the whitepaper, which is more accessible to non-technical people. Chris wants to do the task and also a fresh pitch deck. The new community leader Chris, was also active as a community leader with Factom and is currently working on the Bitland project. Dor mentions in general, that the people who want to help out have the full freedom to do what they think is best for the Synereo community.
 
 
