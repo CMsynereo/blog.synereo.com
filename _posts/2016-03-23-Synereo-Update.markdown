@@ -23,7 +23,7 @@ This week covers several improvements throughout the Synereo ecosystem. Greg dis
 
 ## Detailed notes
 
-###[03:00 ---Technical Dev](https://youtu.be/fsQc_8Bn2vo?t=3m1s) <br>
+### [03:00 ---Technical Dev](https://youtu.be/fsQc_8Bn2vo?t=3m1s) <br>
 Greg Begins with the Technical Devs. He talks about the DVI version (downloadable) and some concepts about building the HTTP bridge and supporting a new non 2Factor for user creation. Dor, Gary & Eric are forming a dev team to push new version of deployment. Anybody interested in joining the devs team there are AMPs available. In addition to the Casper front, the dev group is trying to get a HASH, and what the stake in the system will be next vs betting on BLOCKS. If those strategies could be combined. Using blocks the problem is that the confirmation times for transactions spends a lot of time. Another problem, you can’t potentially have validators that are built on stake groups that are inconsistent with betting on Blocks. Also, instead of betting in stake groups or Blocks, other options like properties that define group of blocks, etc (which logic has been written during the weekend) have been taking into account.
 
 
