@@ -6,7 +6,7 @@ title: Synereo Weekly Update
 date: '2016-04-17 08:00:00 +0200'
 ---
 
-<br>![image](http://i.imgur.com/Zn4TQPG)<br> 
+<br>![image](http://i.imgur.com/Zn4TQPG.png)<br> 
 
 ## Update Summary
 
@@ -30,7 +30,9 @@ Greg Begins with the Technical Devs. He talks about the DVI version (downloadabl
 
 [09:30 ---UI Updates](https://youtu.be/fsQc_8Bn2vo?t=9m30s) <br>
 Eric Talks about the connectivity between the UI and the server. Post creation is checked and the next steps are the contract creation and aggregation of the wallet. He shows an example of the responsive UI and some good properties of the built system.  Also tells us about some improving server processes, friend invitations and other issues. He speaks  about continuous working on marketing and market research like interviews and freelancers.
+
 <br>![image](http://i.imgur.com/h0CAazW.png)<br>
+
 
 [12:45 ---Agenda and Canvas - Dor](https://youtu.be/fsQc_8Bn2vo?t=12m45s) <br>
 Developers are needed, We have funds not only to pay with AMPs, but with FIAT$ as well. Then he talks about going to NY for some important agenda. They are going to meet with Filippi who could help us to create a decentralized model for Synereo. In the next point, Dor explains that we are studying possibilities for the distributed community government and that those experiments are made in the” Loomio”, which is a deliberative web application. Granting in this way, that decisions can be made by community members.
