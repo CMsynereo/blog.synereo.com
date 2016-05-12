@@ -8,7 +8,7 @@ date: '2016-04-18 08:00:00 +0200'
 
 ### March 30, 2016 Synereo Community Hangout
 
-<br>![image](https://pixabay.com/photo-561387/)<br>
+<br>![image](https://pixabay.com/photo-561387/.png)<br>
 
 ## Update Summary
 In this week’s hangout, a new easier accessible version of the whitepaper was discussed, also a focus was put on the UI and coming images, which should be tested and viewed by the community.
@@ -17,22 +17,22 @@ The need for more channels and especially about a tech channel, which should be 
 
 Alan presented a new application pitch, a Task manager which want to use and involve a lot of Synereo features. The upcoming crowdsale was discussed, and possible connections to small investors & angel investors.  Our participation in the  blockchain workshops in New York and the need of whitelisted applications, which are able to show the potential of the Synereo platform, were also covered.
 
-
 ## [Contents in Brief]
 [00:00 - start](https://www.youtube.com/watch?v=m_BxakTpizs)
-* [05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)
-* [09:42 - UI progress] https://youtu.be/m_BxakTpizs?t=583
-* [15:00 - New York blockchain workshop] https://youtu.be/m_BxakTpizs?t=900
-* [17:12 - coming crowdsale] https://youtu.be/m_BxakTpizs?t=1032
-* [23:21 - UI progress II] https://youtu.be/m_BxakTpizs?t=1401
-* [28:52 - project high-school kids] https://youtu.be/m_BxakTpizs?t=1732
-* [30:41 - the need of more channels] https://youtu.be/m_BxakTpizs?t=1841
-* [34:18 - the advantages of synereo over competitors] https://youtu.be/m_BxakTpizs?t=2058
-* [44:11 - question about the security of the synereo network] https://youtu.be/m_BxakTpizs?t=2651
-* [47:47 - project taskmanager] https://youtu.be/m_BxakTpizs?t=2867
-* [53:41 - developer fund for whitelisted applications] https://youtu.be/m_BxakTpizs?t=3221
-* [55:13 - Synereo, blockchain, social technology and game theories]  https://youtu.be/m_BxakTpizs?t=3313
-* [01:03:23 - New York blockchain workshop II] https://youtu.be/m_BxakTpizs?t=3800
+[05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)
+[09:42 - UI progress] https://youtu.be/m_BxakTpizs?t=583)
+[15:00 - New York blockchain workshop](https://youtu.be/m_BxakTpizs?t=900)
+[17:12 - coming crowdsale](https://youtu.be/m_BxakTpizs?t=1032)
+[23:21 - UI progress II](https://youtu.be/m_BxakTpizs?t=1401)
+[28:52 - project high-school kids](https://youtu.be/m_BxakTpizs?t=1732)
+[30:41 - the need of more channels](https://youtu.be/m_BxakTpizs?t=1841)
+[34:18 - the advantages of synereo over competitors](https://youtu.be/m_BxakTpizs?t=2058)
+[44:11 - question about the security of the synereo network](https://youtu.be/m_BxakTpizs?t=2651)
+[47:47 - project taskmanager](https://youtu.be/m_BxakTpizs?t=2867)
+[53:41 - developer fund for whitelisted applications](https://youtu.be/m_BxakTpizs?t=3221)
+[55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)
+[01:03:23 - New York blockchain workshop II](https://youtu.be/m_BxakTpizs?t=3800)
+
 ##Watch the full Hangout
 
 ## [Detailed notes]
