@@ -17,10 +17,10 @@ During this community hangout, Greg Meredith, Dor Konforty and some of the commu
 
 [00:00 --- 3:20](https://youtu.be/SJ5SeU4cnKc?t=0) The conversation opens up by exploring reputation systems. Specifically, **5 aspects of reputation:**
 
-1. formalization of reputation
+1. formalization of reputation.
 2. The relationship of reputation to regulation.
 3. Reputation of things that have agency. This can include the reputation of smart contracts, devices or services.
-4. reputation and privacy
+4. reputation and privacy.
 5. Interoperation of reputation.
 
 ### Time Stamps / Highlights
@@ -39,5 +39,6 @@ During this community hangout, Greg Meredith, Dor Konforty and some of the commu
 
 ### That's all for this week!
 
+Today’s post was Scribed by Ian Bloom. Thank you, Ian!
 
 **Get involved in the Synereo community, there are bounties for tasks in our [Slack channel](http://slack.synereo.com/)!**
