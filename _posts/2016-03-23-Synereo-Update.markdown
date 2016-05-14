@@ -6,7 +6,7 @@ title: Synereo Weekly Update
 date: '2016-04-17 08:00:00 +0200'
 ---
 
-<br>![image](http://i.imgur.com/Zn4TQPG.png)<br> 
+<br>![image](http://i.imgur.com/CW2uloj.png)<br> 
 
 ## Update Summary
 
