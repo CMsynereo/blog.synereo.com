@@ -17,7 +17,7 @@ The need for more channels and especially about a tech channel, which should be 
 
 Alan presented a new application pitch, a Task manager which want to use and involve a lot of Synereo features. The upcoming crowdsale was discussed, and possible connections to small investors & angel investors.  Our participation in the  blockchain workshops in New York and the need of whitelisted applications, which are able to show the potential of the Synereo platform, were also covered.
 
-## [Contents in Brief]
+## Contents in Brief
 [00:00 - start](https://www.youtube.com/watch?v=m_BxakTpizs)<BR>
 [05:42 - a couple of updates](https://youtu.be/m_BxakTpizs?t=343)<BR>
 [09:42 - UI progress](https://youtu.be/m_BxakTpizs?t=583)<BR>
@@ -35,7 +35,7 @@ Alan presented a new application pitch, a Task manager which want to use and inv
 
 ## [Watch the full Hangout](https://www.youtube.com/watch?v=m_BxakTpizs)<BR>
 
-## [Detailed notes]
+## Detailed notes
 
 [00:00 - start](https://www.youtube.com/watch?v=m_BxakTpizs)
 Dor talks about a new version of the whitepaper, which is more accessible to non-technical people. Chris wants to do the task and also a fresh pitch deck. The new community leader Chris, was also active as a community leader with Factom and is currently working on the Bitland project. Dor mentions in general, that the people who want to help out have the full freedom to do what they think is best for the Synereo community.
@@ -85,6 +85,6 @@ Greg talks about the possibilities of the modern communication layer, the role o
 [01:03:23 - New York blockchain workshop II](https://youtu.be/m_BxakTpizs?t=3800)
 Dor asks if there are already applications that can be presented on the platform, and if anyone has connections to small angel-like investors, who can be meet during the New York blockchain workshop.
 
-## That’s all!
+## That’s all for this week!
 
 **Get involved in the Synereo community! Get AMP bounties for open tasks. See our [Slack channel](http://slack.synereo.com/) for details.**
