@@ -17,6 +17,7 @@ ADD TEXT
 ## Contents in Brief
 
 ADD TIMELINE, LIKE THIS:
+
 [03:00 ---Technical Dev - Greg](https://youtu.be/fsQc_8Bn2vo?t=3m1s)<BR>
 
 
@@ -28,7 +29,7 @@ ADD TIMELINE, LIKE THIS:
 SUMMARIZE THIS TIME-FRAME
 
 ADD IMAGE(S) WHERE APPROPRIATE
-<br>![image](http://i.imgur.com/h0CAazW.png)<br>
+<br>![image](http://i.imgur.com/ ADD IMAGE .png)<br>
 
 
 ## That's all for this week!!
