@@ -60,6 +60,7 @@ Navneet wants to post a primary version of the UI, so people can play around wit
 
 [28:52 - Project high-school kids](https://youtu.be/m_BxakTpizs?t=1732)<BR>
 Jonny is doing a lot of work with highschool kids and college students, and he has a group of students who are quite interested in Synereo. He can organize focus groups to get input from, and find out what they want in a future social platform, and also what they don't like in existing social platforms.
+
 <br>![image](http://i.imgur.com/AqQZrD3.jpg)<br>
 
 [30:41 - The need of more channels](https://youtu.be/m_BxakTpizs?t=1841)<BR>
