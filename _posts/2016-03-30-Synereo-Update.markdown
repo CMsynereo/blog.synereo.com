@@ -71,14 +71,12 @@ The advantages of Synereo over possible competitors was brought up. The most urg
 
 [44:11 - Question about the security of the synereo network](https://youtu.be/m_BxakTpizs?t=2651)<BR>
 Malthus John asks a question about the security of the Synereo network which is not on the blockchain. Greg explains that encryption is only the last layer of security and gives an example that security through obscurity can be very powerful. It can be very hard to guess the channels where the conversation occurred. This layer of security can give you a much higher security level than encryption and it's a bit like finding a needle in a haystack. 
-<br>![image](http://i.imgur.com/1TmeQls.jpg)<br>
 
 [47:47 - Project taskmanager](https://youtu.be/m_BxakTpizs?t=2867)<BR>
 Alan presents a new application pitch, an idea of an app that can be used to organize your task lists. He wants to create a task list app, which is simple but able to twist, and can demonstrate some showcases, which the Synereo platform is able to do. The depth of the app comes from the ability to connect with other people on the platform, so that you can receive hints and different kinds of input. The app should help you work through the day and improve your work-life balance, whereas it should also be made fun to use.
 
 [53:41 - Developer fund for whitelisted applications](https://youtu.be/m_BxakTpizs?t=3221)<BR>
 Greg said that Dor had a nice idea about a developer fund, a whitelist of applications that are able to show the value of the Synereo platform if needed, and also helps to engage the community and potential developers even more. Also, when using all the different channels (Google, Taiga, Slack, Hangouts), we should think about how we want it to happen in Synereo. 
-<br>![image](http://i.imgur.com/N8NjqWY.jpg)<br>
 
 [55:13 - Synereo, blockchain, social technology and game theories](https://youtu.be/m_BxakTpizs?t=3313)<BR>
 Greg talks about the possibilities of the modern communication layer, the role of blockchain technology and the missing aspects of modern social technology, which focus mainly on collaboration. He mentions that gamification can unlock a lot of capacities, which are not often touched, and he explains that all 3 game theories in mathematics have unlocked and solved a lot of fundamental mathematical problems. He concludes that gamification is a crucial step in developing social technology and that Synereo reflects only one layer, which can support the process of coordination and collaboration.
