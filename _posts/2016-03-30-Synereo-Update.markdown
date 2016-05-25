@@ -11,7 +11,7 @@ date: '2016-04-18 08:00:00 +0200'
 <br>![image](http://i.imgur.com/qojfhEk.jpg)<br>
 
 ## Update Summary
-Our weekly hangout brought us many interesting conversations. This week we discussed a new, more accessible version of the white paper (add link here), we also focused on the UI, which should be tested by the community.
+Our weekly hangout brought us many interesting conversations. This week we discussed a new, more accessible version of the white paper, we also focused on the UI, which should be tested by the community.
 
 Other discussions included the need for a technical channel that should focus on technical aspects of the platform, to allow onboarding a wider array of people, which is one of Synereo's main goals in terms of early adoption.
 
